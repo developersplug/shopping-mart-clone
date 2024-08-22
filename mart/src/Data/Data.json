@@ -1,0 +1,120 @@
+{
+  "catagorywomen": [
+    {
+      "id": "shirt1",
+      "name": "Shirt1",
+      "image": "../assets/shirt1.avif",
+      "price": "10",
+      "des": "lorems bjsdfuer bcdgfhrei ucgerfer urehufhe ifuerhyfhe ufyergtfu ggyfuerf ggd eg4r7y4   e4u83ry4 rygy438ry 843r 4 bdsudygfweiu w eygue dvwyger "
+    },
+    {
+      "id": "shirt2",
+      "name": "Shirt2",
+      "image": "../assets/shirt2.avif",
+      "price": "20",
+      "des": "lorems bjsdfuer bcdgfhrei ucgerfer urehufhe ifuerhyfhe ufyergtfu ggyfuerf ggd eg4r7y4   e4u83ry4 rygy438ry 843r 4 bdsudygfweiu w eygue dvwyger "
+    },
+    {
+      "id": "shirt3",
+      "name": "Shirt3",
+      "image": "../assets/shirt3.avif",
+      "price": "30",
+      "des": "lorems bjsdfuer bcdgfhrei ucgerfer urehufhe ifuerhyfhe ufyergtfu ggyfuerf ggd eg4r7y4   e4u83ry4 rygy438ry 843r 4 bdsudygfweiu w eygue dvwyger "
+    },
+    {
+      "id": "shirt4",
+      "name": "Shirt4",
+      "image": "../assets/shirt4.avif",
+      "price": "40",
+      "des": "lorems bjsdfuer bcdgfhrei ucgerfer urehufhe ifuerhyfhe ufyergtfu ggyfuerf ggd eg4r7y4   e4u83ry4 rygy438ry 843r 4 bdsudygfweiu w eygue dvwyger "
+    },
+    {
+      "id": "shirt5",
+      "name": "Shirt5",
+      "image": "../assets/shirt5.avif",
+      "price": "50",
+      "des": "lorems bjsdfuer bcdgfhrei ucgerfer urehufhe ifuerhyfhe ufyergtfu ggyfuerf ggd eg4r7y4   e4u83ry4 rygy438ry 843r 4 bdsudygfweiu w eygue dvwyger "
+    },
+    {
+      "id": "cap1",
+      "name": "Cap1",
+      "image": "../assets/womencap.avif",
+      "price": "60",
+      "des": "lorems bjsdfuer bcdgfhrei ucgerfer urehufhe ifuerhyfhe ufyergtfu ggyfuerf ggd eg4r7y4   e4u83ry4 rygy438ry 843r 4 bdsudygfweiu w eygue dvwyger "
+    },
+    {
+      "id": "cap2",
+      "name": "Cap2",
+      "image": "../assets/cap2.avif",
+      "price": "70",
+      "des": "lorems bjsdfuer bcdgfhrei ucgerfer urehufhe ifuerhyfhe ufyergtfu ggyfuerf ggd eg4r7y4   e4u83ry4 rygy438ry 843r 4 bdsudygfweiu w eygue dvwyger "
+    },
+    {
+      "id": "cap3",
+      "name": "Cap3",
+      "image": "../assets/cap3.avif",
+      "price": "80",
+      "des": "lorems bjsdfuer bcdgfhrei ucgerfer urehufhe ifuerhyfhe ufyergtfu ggyfuerf ggd eg4r7y4   e4u83ry4 rygy438ry 843r 4 bdsudygfweiu w eygue dvwyger "
+    },
+    {
+      "id": "womentrouser",
+      "name": "Trouser",
+      "image": "../assets/womentrouser.avif",
+      "price": "90",
+      "des": "lorems bjsdfuer bcdgfhrei ucgerfer urehufhe ifuerhyfhe ufyergtfu ggyfuerf ggd eg4r7y4   e4u83ry4 rygy438ry 843r 4 bdsudygfweiu w eygue dvwyger "
+    }
+  ],
+
+    "catagorymen": [
+    {
+      "id": "jacket1",
+      "name": "jacket1",
+      "image": "../assets/men/jacket1.jpg",
+      "price": "10",
+      "des": "lorems bjsdfuer bcdgfhrei ucgerfer urehufhe ifuerhyfhe ufyergtfu ggyfuerf ggd eg4r7y4   e4u83ry4 rygy438ry 843r 4 bdsudygfweiu w eygue dvwyger "
+    },
+    {
+      "id": "Jacket2",
+      "name": "Jacket2",
+      "image": "../assets/men/jacket2.jpg",
+      "price": "20",
+      "des": "lorems bjsdfuer bcdgfhrei ucgerfer urehufhe ifuerhyfhe ufyergtfu ggyfuerf ggd eg4r7y4   e4u83ry4 rygy438ry 843r 4 bdsudygfweiu w eygue dvwyger "
+    },
+    {
+      "id": "Tie1",
+      "name": "Tie1",
+      "image": "../assets/men/tie1.jpg",
+      "price": "30",
+      "des": "lorems bjsdfuer bcdgfhrei ucgerfer urehufhe ifuerhyfhe ufyergtfu ggyfuerf ggd eg4r7y4   e4u83ry4 rygy438ry 843r 4 bdsudygfweiu w eygue dvwyger "
+    },
+    {
+      "id": "Tie2",
+      "name":"Tie2",
+      "image": "../assets/men/tie2.jpg",
+      "price": "40",
+      "des": "lorems bjsdfuer bcdgfhrei ucgerfer urehufhe ifuerhyfhe ufyergtfu ggyfuerf ggd eg4r7y4   e4u83ry4 rygy438ry 843r 4 bdsudygfweiu w eygue dvwyger "
+    },
+    {
+      "id": "Trouser1",
+      "name": "Trouser1",
+      "image": "../assets/men/trouser1.jpg",
+      "price": "50",
+      "des": "lorems bjsdfuer bcdgfhrei ucgerfer urehufhe ifuerhyfhe ufyergtfu ggyfuerf ggd eg4r7y4   e4u83ry4 rygy438ry 843r 4 bdsudygfweiu w eygue dvwyger "
+    },
+    {
+      "id": "Trouser2",
+      "name": "Trouser2",
+      "image": "../assets/men/trouser2.jpg",
+      "price": "60",
+      "des": "lorems bjsdfuer bcdgfhrei ucgerfer urehufhe ifuerhyfhe ufyergtfu ggyfuerf ggd eg4r7y4   e4u83ry4 rygy438ry 843r 4 bdsudygfweiu w eygue dvwyger "
+    },
+    {
+      "id": "Trouser3",
+      "name": "Trouser3",
+      "image": "../assets/men/trouser3.jpg",
+      "price": "70",
+      "des": "lorems bjsdfuer bcdgfhrei ucgerfer urehufhe ifuerhyfhe ufyergtfu ggyfuerf ggd eg4r7y4   e4u83ry4 rygy438ry 843r 4 bdsudygfweiu w eygue dvwyger "
+    }
+    
+  ]
+}
